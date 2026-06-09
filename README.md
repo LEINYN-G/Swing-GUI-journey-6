@@ -28,14 +28,14 @@ A component is an independent visual control and Java Swing Framework contains a
 allow a high level of customization.
 
 These components represent various GUI functionalities and can be implemented by a different Java class provided by the Swing API. These classes are derived from the JComponent class as illustrated in the below image.
-![Components Architecture](Images/GUI.jpeg)
+
+<img src="Images/GUI.jpeg" alt="Components Architecture" width="500" height="600">
 
 
 Some examples of the Swing component would be JLabel, JButton, JTextField, JList, and more which we are going to explore right here!
 I have created a GUI for your understanding u can explore the .Java code files!!
 The result of journey-6 Feedback-app-2 code is shown below:
 
-![Components Architecture](Images/image.jpeg)
 <img src="Images/image.jpeg" alt="App Screenshot" width="400" height="400">
 
 
