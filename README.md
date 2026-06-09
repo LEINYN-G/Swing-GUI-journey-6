@@ -33,6 +33,9 @@ These components represent various GUI functionalities and can be implemented by
 
 Some examples of the Swing component would be JLabel, JButton, JTextField, JList, and more which we are going to explore right here!
 I have created a GUI for your understanding u can explore the .Java code files!!
+The result of journey-6 Feedback-app-2 code is shown below:
+
+![Components Architecture](Images/image.jpeg)
 
 Let's explore some of the Java Swing components and start with the JLabel component.
 The JLabel component in Swing represented by the JLabel class is used to display a non-editable text on the GUI. In simple words , it is used to display some read-only text onto the GUI window.
