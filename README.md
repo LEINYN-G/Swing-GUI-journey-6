@@ -18,3 +18,22 @@ FlowLayout: Places components in a row, wrapping to the next line if needed (Def
 BorderLayout: Divides the container into five regions: North, South, East, West, and Center (Default for JFrame).
 GridLayout: Arranges components in a rectangular grid of equal-sized cells.
 BoxLayout: Lines up components either vertically or horizontally.
+
+# Commonly Used Swing GUI Components: 1
+Swing provides a set of components that we can include in our programs and avail the rich functionalities using which we can develop highly customised
+and effecient GUI applications.
+
+But what is a Swing component? What does it refer to?
+A component is an independent visual control and Java Swing Framework contains a large set of these components which provide rich functionalities and
+allow a high level of customization.
+
+These components represent various GUI functionalities and can be implemented by a different Java class provided by the Swing API. These classes are derived from the JComponent class as illustrated in the below image.
+
+
+Some examples of the Swing component would be JLabel, JButton, JTextField, JList, and more which we are going to explore right here!
+I have created a GUI for your understanding u can explore the .Java code files!!
+
+
+
+
+
