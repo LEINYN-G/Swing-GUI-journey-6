@@ -36,6 +36,8 @@ I have created a GUI for your understanding u can explore the .Java code files!!
 The result of journey-6 Feedback-app-2 code is shown below:
 
 ![Components Architecture](Images/image.jpeg)
+<img src="Images/image.jpeg" alt="App Screenshot" width="400" height="400">
+
 
 Let's explore some of the Java Swing components and start with the JLabel component.
 The JLabel component in Swing represented by the JLabel class is used to display a non-editable text on the GUI. In simple words , it is used to display some read-only text onto the GUI window.
