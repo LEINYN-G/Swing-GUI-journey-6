@@ -1,3 +1,7 @@
+
+<img src="Images/java.jpeg" alt="App Screenshot" width="200" height="200">
+
+
 # Swing-GUI-journey-6
 a GUI is a UI, which uses graphics to interact with the user, GUI stands for Graphical User Interface. These can be buttons, menus, images, and more. The GUI for many programs differs in layout and exact function.
 Swing GUI Quick StartJava Swing is a lightweight GUI (Graphical User Interface) toolkit used to build window-based applications. It is built on top of the older AWT (Abstract Window Toolkit) and is entirely written in Java.
@@ -36,7 +40,7 @@ Some examples of the Swing component would be JLabel, JButton, JTextField, JList
 I have created a GUI for your understanding u can explore the .Java code files!!
 The result of journey-6 Feedback-app-2 code is shown below:
 
-<img src="Images/image.jpeg" alt="App Screenshot" width="400" height="400">
+<img src="Images/image.jpeg" alt="App Screenshot" width="300" height="300">
 
 
 Let's explore some of the Java Swing components and start with the JLabel component.
@@ -51,7 +55,44 @@ The JLabel component in Swing represented by the JLabel class is used to display
 4) JLabel(String text, int horizontalAlignment): This constructor instance is used to creaate a label with the specified                                                      text along with horizontal alignment.
 5) JLabel(Icon image, int horizontalAlignment):  This constructor instance is used to create as specified image or con along                                                  with horizontal alignment.
 
-The JLabel class also provides several methods that can be used to manipulate the label of which the getText() and  setText() are the generally used methods that might come in handy.
+The JLabel class also provides several methods that can be used to manipulate the label of which the
+getText() and  setText() are the generally used methods that might come in handy.
+
+So far we ahve added a text label and an image label to our GUI application. Now, let's complete the next of the GUI as per the code 
+Feedback-App-3 outpug is shown bel0w:
+
+<img src="Images/op.jpeg" alt="App Screenshot" width="300" height="300">
+
+Following are the components we will need,
+1) JTextField- To create a text field for the user to enter their name.
+2) JTextArea- To create a text area similar to a text field but a little larger in size for the iuser to enter their feedback.
+3) JButton- A button using which the user can perform some action such as sending the feedback.
+Therefore, let's explore these Swing components (shown in the image below) before we move ahead and complete the code.
+
+<img src="Images/notes.jpeg" alt="App Screenshot" width="400" height="600">
+
+Exploring evern more JTextArea by creating and using an instance for this class using any of the below constructors:
+1) JTextArea()
+2) JTextArea(int rows, int columns)
+3) JTextArea(String text)
+4) JTextArea(String text, int rows, int columns)
+It also provides several methods such as insert(), append(), getRows(), getLines(), getColumns, and more...
+
+Exploring JButtons:
+Buttons are an important component of any GUI application. They allow users to interact with the application. 
+In order to make our JButtons perform an action when clicked , we need to listen for that evern and handle it accordingly!
+We can simply use JButtons bu creating an using an instance for this class using any of the below constructors.
+1) JButton()
+2) JButton(String text)
+3) JButton(Icon icon)
+
+Now to get a clear picture let's do it explore code Feedback-App-3!
+
+<img src="Images/cont.jpeg" alt="App Screenshot" width="200">
+
+Surely, in the upcoming sections, we learn how to make our GUI interactive and handle user actions and events and we will update this mini-application!!
+
+<img src="Images/lets.jpeg" alt="App Screenshot" width="300" height="300">
 
 
 
