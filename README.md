@@ -1,5 +1,5 @@
 
-<img src="Images/java.png" alt="App Screenshot" width="200" height="200">
+<img src="Images/java.png" alt="App Screenshot" width="200" height="300">
 
 
 # Swing-GUI-journey-6
