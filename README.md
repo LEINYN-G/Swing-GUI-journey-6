@@ -95,5 +95,4 @@ Surely, in the upcoming sections, we learn how to make our GUI interactive and h
 <img src="Images/lets.jpeg" alt="App Screenshot" width="300" height="300">
 
 
-
-
+Navigate to README1.md file pls!
