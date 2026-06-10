@@ -1,5 +1,5 @@
 
-<img src="Images/java.jpeg" alt="App Screenshot" width="200" height="200">
+<img src="Images/java.png" alt="App Screenshot" width="200" height="200">
 
 
 # Swing-GUI-journey-6
@@ -59,7 +59,7 @@ The JLabel class also provides several methods that can be used to manipulate th
 getText() and  setText() are the generally used methods that might come in handy.
 
 So far we ahve added a text label and an image label to our GUI application. Now, let's complete the next of the GUI as per the code 
-Feedback-App-3 outpug is shown bel0w:
+Feedback-App-3 output is shown below:
 
 <img src="Images/op.jpeg" alt="App Screenshot" width="300" height="300">
 
